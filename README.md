@@ -1,1 +1,1 @@
-# sample
+# Various learning projects
